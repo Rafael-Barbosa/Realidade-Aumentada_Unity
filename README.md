@@ -19,7 +19,7 @@
 <img src="Img/Gif_1.gif" width="460" height="300">
 </p>
 
-### Para fazer uma aplicação como esta acima basta instalar o Vuforia Engine:
+#### Para fazer uma aplicação como esta acima basta instalar o Vuforia Engine:
 
 >  O Vuforia Engine pode ser facilmente importado para o Unity
 
@@ -33,7 +33,7 @@
 <p align="center">
 <img src="Img/Target.png">
 </p>
-ls
+
 
 <!--Target-->
 <p align="center">
@@ -42,7 +42,7 @@ ls
 
 > A Figura acima mostra o mapeamento para realidade aumentada.
 
-### Monte sua cena:
+#### Monte sua cena:
 
 > Incluindo o Imagem Target e a Câmera AR
 
@@ -51,7 +51,7 @@ ls
 <img src="Img/unity-1.png">
 </p>
 
-### O script para rotacionar o Cubo
+#### O script para rotacionar o Cubo
 
 ```javascript
 using System.Collections;
@@ -72,3 +72,25 @@ public class rotate : MonoBehaviour
     }
 }
 ```
+
+#### Basta escolher o eixo de rotação e a módulo da posição nesse caso:
+> X = 50, Y = 50, Z = 50.
+
+<!--Detalhes-1-->
+<p align="center">
+<img src="Img/Detalhes.png">
+</p>
+
+> O Unity é uma plataforma de desenvolvimento de jogos que também pode ser utilizada para desenvolver aplicativos de AR.
+
+## Contribua 
+
+1 - Fork it
+
+2 - Cria sua feature branch (git checkout -b my-new-feature)
+
+3 - Commit suas mudanças (git commit -am "Added some feature")
+
+4 - Push na sua branch (git push origin my-new-feature)
+
+5 - Crie novo Pull Request
