@@ -83,7 +83,7 @@ public class rotate : MonoBehaviour
 
 > O Unity é uma plataforma de desenvolvimento de jogos que também pode ser utilizada para desenvolver aplicativos de AR.
 
-## Contribua 
+## Contribua :)
 
 1 - Fork it
 
