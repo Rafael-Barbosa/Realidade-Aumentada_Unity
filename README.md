@@ -16,7 +16,7 @@
 
 <!--GIF-->
 <p align="center">
-<img src="Img/Gif_RA_Boa.gif" width="460" height="300">
+<img src="Img/Gif_1.gif" width="460" height="300">
 </p>
 
 ### Para fazer uma aplicação como esta acima basta instalar o Vuforia Engine:
@@ -48,10 +48,27 @@ ls
 
 <!--Unity-1-->
 <p align="center">
-<img src="Img/Unity-1.png">
+<img src="Img/unity-1.png">
 </p>
 
+### O script para rotacionar o Cubo
 
 ```javascript
-print(f)
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class rotate : MonoBehaviour
+{
+    public Vector3 rotateAmount;
+    void Start()
+    {
+        
+    }
+
+    void Update()
+    {
+        transform.Rotate(rotateAmount * Time.deltaTime);
+    }
+}
 ```
