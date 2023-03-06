@@ -11,7 +11,7 @@
 
 
 <p align="center">
-<img src="Img/Vuforia.png" width="460" height="300">
+<img src="Img/vuforia.png" width="460" height="300">
 </p>
 
 <!--GIF-->
