@@ -19,7 +19,7 @@
 <img src="Img/Gif_1.gif" width="460" height="300">
 </p>
 
-#### Para fazer uma aplicação como esta acima basta instalar o Vuforia Engine:
+#### Para fazer uma aplicação como esta acima basta fazer o download do Vuforia Engine:
 
 >  O Vuforia Engine pode ser facilmente importado para o Unity
 
@@ -27,7 +27,7 @@
 
 
 >  É necessário criar uma conta e uma licença para registrar o seu Target (alvo).
-> Após isso faça o Download do seus banco de dados (target+features).fff
+> Após isso faça o Download do seus banco de dados (target+features).
 
 <!--Target-->
 <p align="center">
